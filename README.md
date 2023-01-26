@@ -1,7 +1,7 @@
 # Collecting and analysing social media data: A demo
 This repository contains the notebook for a demo of using Twitter data I presented at [ResBaz Aotearoa 2022](https://resbaz.auckland.ac.nz).
 
-[**View the demo**](smd-demo.html)
+[**View the demo**](smd-demo.ipynb)
 
 ## Set up on your own computer
 If you want to run the demo notebook on your own computer, follow these steps.
