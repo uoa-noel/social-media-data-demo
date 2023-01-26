@@ -1,0 +1,6 @@
+pandas
+twarc
+twarc-csv
+spacy # Need to install model via python -m spacy download en_core_web_sm
+tqdm
+nltk
